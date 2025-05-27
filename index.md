@@ -9,3 +9,6 @@
 ``` PHP
 $name = "Sage";
 ```
+- [x] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
